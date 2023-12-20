@@ -6,5 +6,5 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 ## Notas
 Pueden hacer lo que quieran...
 
-## Cambios
-Este es un cambio directamente desde github
+## Cambios desde remoto
+Este es un cambio directamente desde el repositorio remoto alojado en github
